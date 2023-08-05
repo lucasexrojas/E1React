@@ -2,13 +2,13 @@ export const products = [
 	{
 		id: 1,
 		title: "Cola",
-		img: "./public/img/Productos/sabor-cola.jpg",
+		img: "./img/Productos/sabor-cola.jpg",
 		category: "Cabalgata-cola",
 	},
 	{
 		id: 3,
 		title: "Naranja",
-		img: "./public/img/Productos/sabor-naranja.jpg",
+		img: "./img/Productos/sabor-naranja.jpg",
 		category: "Cabalgata-naranja",
 	},
 	{
