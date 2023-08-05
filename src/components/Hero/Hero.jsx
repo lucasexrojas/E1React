@@ -13,7 +13,7 @@ const Hero = () => {
         </Button>
       </HeroTextContainerStyled>
       <HeroImgContainerStyled>
-        <img src="./public/img/fondoHero.jpg" alt="img-gaseosas" />
+        <img src="./img/fondoHero.jpg" alt="img-gaseosas" />
       </HeroImgContainerStyled>
     </HeroContainerStyled>
   )
