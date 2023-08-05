@@ -22,17 +22,6 @@ export const CategoriasContainer = styled.div`
 `;
 
 export const CardCategoriaStyled = styled(Button)`
-   /* padding: 1rem 1.5rem;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 5px;
-        background-color: var(--black-bg);
-        border-radius: 10px;
-        transition: background-color 0.2s, color 0.2s;
-        &:hover {
-            background-color: var(--gray-bg);
-            transition: background-color 0.2s, color 0.2s;
-        } */
+
 `;
 

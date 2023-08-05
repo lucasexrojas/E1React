@@ -13,7 +13,7 @@ const Nabvar = () => {
     <NabvarContainerStyled>
         <div>
             <a href="/#">
-                <LogoContanerStyled src="./src/assets/img/gaseosas/cabalgata-logo-300x159.png" alt="logo" />
+                <LogoContanerStyled src="./img/gaseosas/cabalgata-logo-300x159.png" alt="logo" />
             </a>
         </div>
         <LinksContainerStyled>
